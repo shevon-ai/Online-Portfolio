@@ -65,16 +65,17 @@ footer p{
 .tagline{
   margin-top: 40px;
   color: #FF9F29;
-  font-size: 1vw;
+  font-size: 1.5vw;
   font-style: italic;
   font-weight: bolder;
+  display: block;
 
 }
 
 .heading{
   top: 70px;
   right: 89px;
-  font-size: 5rem;
+  font-size: 6vw;
   color: #FAF3E3;
   position: absolute;
   font-weight: bold;
@@ -243,17 +244,17 @@ footer p{
   top: 40%;
   left: 20%;
   text-align: left;
-  font-size: 4rem;
+  font-size: 6vw;
   color: #FF9F29;
   font-weight: bold;
 }
 
 .subgreeting{
   position: absolute;
-  top: 50%;
+  top: 55%;
   left: 20%;
   text-align: left;
-  font-size: 3rem;
+  font-size: 5vw;
   color: #FF9F29;
   font-weight: bold;
   font-style: italic;
@@ -331,6 +332,13 @@ footer p{
     right: 30px;
     left: 30px;
     top: 230px;
+  }
+  .greeting{
+    font-size: 7vw;
+  }
+  .subgreeting{
+    font-size: 7vw;
+    top: 50%;
   }
 
 
