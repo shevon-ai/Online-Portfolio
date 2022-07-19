@@ -234,6 +234,7 @@ footer p{
   background-color: #1A4D2E;
   margin: 0;
   width: 100%;
+  height: auto;
   position: relative;
 }
 
