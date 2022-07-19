@@ -232,8 +232,9 @@ footer p{
   background-blend-mode: luminosity;
   opacity: 0.9;
   background-color: #1A4D2E;
-  margin: 0;
   height: 100vh;
+  margin: 0;
+  width: 100%;
   position: relative;
 }
 
