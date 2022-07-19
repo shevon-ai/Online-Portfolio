@@ -233,8 +233,7 @@ footer p{
   opacity: 0.9;
   background-color: #1A4D2E;
   margin: 0;
-  width: 100%;
-  height: auto;
+  height: 100vh;
   position: relative;
 }
 
