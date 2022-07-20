@@ -365,4 +365,11 @@ footer p{
   .contact-box{
     top: 240px;
   }
+  .greeting{
+    font-size: 6vw;
+  }
+  .subgreeting{
+    font-size: 6vw;
+    top: 50%;
+  }
 }
